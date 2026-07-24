@@ -1,0 +1,42 @@
+# SideQuest — dark SaaS presentation theme
+
+[theme]
+base = "dark"
+primaryColor = "#38BDF8"
+backgroundColor = "#0B1220"
+secondaryBackgroundColor = "#151D2E"
+codeBackgroundColor = "#0F172A"
+textColor = "#E8EEF7"
+linkColor = "#7DD3FC"
+borderColor = "#2A3548"
+codeTextColor = "#CBD5E1"
+showWidgetBorder = true
+showSidebarBorder = true
+baseRadius = "10px"
+buttonRadius = "10px"
+
+font = "'Plus Jakarta Sans':https://fonts.googleapis.com/css2?family=Plus+Jakarta+Sans:wght@400;500;600;700;800&display=swap"
+headingFont = "'Plus Jakarta Sans':https://fonts.googleapis.com/css2?family=Plus+Jakarta+Sans:wght@600;700;800&display=swap"
+codeFont = "'JetBrains Mono':https://fonts.googleapis.com/css2?family=JetBrains+Mono:wght@400;500&display=swap"
+baseFontSize = 15
+baseFontWeight = 400
+codeFontSize = "0.875rem"
+headingFontSizes = ["2.4rem", "1.55rem", "1.25rem", "1.05rem", "0.95rem", "0.85rem"]
+headingFontWeights = [800, 700, 650, 600, 600, 500]
+linkUnderline = false
+
+greenColor = "#34D399"
+redColor = "#F87171"
+yellowColor = "#FBBF24"
+orangeColor = "#FB923C"
+blueColor = "#38BDF8"
+violetColor = "#A78BFA"
+grayColor = "#94A3B8"
+
+[theme.sidebar]
+backgroundColor = "#080E1A"
+secondaryBackgroundColor = "#151D2E"
+codeBackgroundColor = "#0F172A"
+textColor = "#E8EEF7"
+borderColor = "#2A3548"
+primaryColor = "#38BDF8"
